@@ -28,7 +28,7 @@
 
 ### 🚀 Featured Projects  
 - 🏠 **Household Services App** – Flask + VueJS + SQLite + Redis  
-- 📊 **Data Analyst Agent** – Automated Data Processing & Visualization API  
+- 📊 **Data Analyst Agent** – Automated Dynamic Data Processing & Visualization using LLM's  
 - 🤖 **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines
 - 🎓 **Virtual Teaching Assistant (RAG)** – Built an assistant using Retrieval-Augmented Generation for answering student queries
 ---
