@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=blue" />
   <img src="https://img.shields.io/badge/VueJS-000000?style=for-the-badge&logo=vue.js&logoColor=41B883" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
 ---
@@ -29,8 +29,8 @@
 ### 🚀 Featured Projects  
 - 🏠 **Household Services App** – Flask + VueJS + SQLite + Redis  
 - 📊 **Data Analyst Agent** – Automated Data Processing & Visualization API  
-- 🤖 **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines  
-
+- 🤖 **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines
+- 🎓 **Virtual Teaching Assistant (RAG)** – Built an assistant using Retrieval-Augmented Generation for answering student queries
 ---
 
 ### 🌐 Connect With Me  
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/Deepaksangh41/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="mailto:deepaksangh45@gmail.com" target="_blank">
+  <a href="mailto:deepaksangh45@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://github.com/Deepaksangh41git" target="_blank">
