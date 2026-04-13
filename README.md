@@ -7,10 +7,10 @@
 ---
 
 ### 🌌 About Me  
-- 🎓 B.Tech (3rd Year) | Data Science & AI Enthusiast  
-- 🤖 Interested in **AI, Machine Learning, and Agentic AI**  
-- 💡 Always exploring **projects in ML & Data Science**  
-- 🔭 Currently working on: `Household Services App`, `Data Analyst Agent`  
+-  B.Tech (3rd Year) | Data Science & AI Enthusiast  
+-  Interested in **AI, Machine Learning, and Agentic AI**  
+-  Always exploring **projects in ML & Data Science**  
+-  Currently working on: `Household Services App`, `Data Analyst Agent`  
 
 ---
 
@@ -26,11 +26,11 @@
 
 ---
 
-### 🚀 Featured Projects  
-- 🏠 **Household Services App** – Flask + VueJS + SQLite + Redis  
-- 📊 **Data Analyst Agent** – Automated Dynamic Data Processing & Visualization using LLM's  
-- 🤖 **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines
-- 🎓 **Virtual Teaching Assistant (RAG)** – Built an assistant using Retrieval-Augmented Generation for answering student queries
+###  Featured Projects  
+-  **Household Services App** – Flask + VueJS + SQLite + Redis  
+-  **Data Analyst Agent** – Automated Dynamic Data Processing & Visualization using LLM's  
+-  **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines
+-  **Virtual Teaching Assistant (RAG)** – Built an assistant using Retrieval-Augmented Generation for answering student queries
 ---
 
 ### 🌐 Connect With Me  
