@@ -6,7 +6,7 @@
 
 ---
 
-### 🌌 About Me  
+##  About Me  
 -  B.Tech (4th Year) | Data Science & AI Enthusiast  
 -  Interested in **AI, Machine Learning, and Agentic AI**  
 -  Always exploring **projects in ML & Data Science**  
@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Tech Stack  
+##  Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=purple" />
@@ -26,7 +26,7 @@
 
 ---
 
-###  Featured Projects  
+##  Featured Projects  
 -  **Household Services App** – Flask + VueJS + SQLite + Redis  
 -  **Data Analyst Agent** – Automated Dynamic Data Processing & Visualization using LLM's  
 -  **ML Practice Projects** – Hands-on with scikit-learn, XGBoost, Pipelines
