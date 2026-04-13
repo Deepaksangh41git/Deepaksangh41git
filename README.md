@@ -7,7 +7,7 @@
 ---
 
 ### 🌌 About Me  
--  B.Tech (3rd Year) | Data Science & AI Enthusiast  
+-  B.Tech (4th Year) | Data Science & AI Enthusiast  
 -  Interested in **AI, Machine Learning, and Agentic AI**  
 -  Always exploring **projects in ML & Data Science**  
 -  Currently working on: `Household Services App`, `Data Analyst Agent`  
