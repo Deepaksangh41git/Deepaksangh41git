@@ -3,12 +3,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Deepak+Singh!;AI+Engineer+%7C+ML+Systems+Developer;LLMs+%7C+RAG+%7C+MLOps;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
-
----
-
 <p align="center">
   <img src="./Chibi Boy Emoji Pose Collection.gif" width="180">
 </p>
+---
+
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (2026) at Dronacharya College of Engineering, and BS in Data Science & Applications at **IIT Madras**
