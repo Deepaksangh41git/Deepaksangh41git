@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="./Chibi Boy Emoji Pose Collection.gif" width="180">
+</p>
+
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (2026) at Dronacharya College of Engineering, and BS in Data Science & Applications at **IIT Madras**
 - 🤖 AI Engineer building **LLM-powered applications, RAG pipelines, and production-grade ML systems**
